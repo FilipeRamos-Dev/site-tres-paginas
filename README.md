@@ -13,3 +13,5 @@ Os itens trabalhados foram:
 - Elementos básicos da minha pessoa;
 - Pessoas que eu tenho certa adimiração;
 - Algumas universidade excelentes.
+
+Em geral foi uma boa aula introdutória de HTML
