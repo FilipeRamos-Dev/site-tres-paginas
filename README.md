@@ -14,4 +14,4 @@ Os itens trabalhados foram:
 - Pessoas que eu tenho certa adimiração;
 - Algumas universidade excelentes.
 
-Em geral foi uma boa aula introdutória de HTML
+Em geral, foi uma boa aula introdutória de HTML.
