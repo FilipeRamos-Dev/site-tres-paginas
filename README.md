@@ -6,9 +6,9 @@
 Trabalhamos diversos conceitos trabalhados em sala de aula como:
 - Colocar links na página;
 - Colocar imagens;
-- Usar tags báscias como <p></p> e <h1></h1> e afins.
+- Usar tags báscias como parágrafo, título e quebra de linha.
 
-## Intes trabalhados
+## Itens trabalhados
 Os itens trabalhados foram:
 - Elementos básicos da minha pessoa;
 - Pessoas que eu tenho certa adimiração;
